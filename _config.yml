@@ -1,0 +1,28 @@
+name: haroldhannon
+favicon: null
+layout_spectrum: 0.10199450398795307
+typography_spectrum: 0.9608749761246145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.35559549857862294
+  lightness: 0.5668337100651115
+  saturation: 0.10576756065711379
+  rhythmicContrast: 0.9847195846959949
+purpose: []
